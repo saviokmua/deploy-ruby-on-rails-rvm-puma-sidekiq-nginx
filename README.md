@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is example project
 
-Things you may want to cover:
+### Deploy Ruby on Rails project(rvm/capistrano/puma/sidekiq)
 
-* Ruby version
+Step by step documentation is [here](https://dev.webcity.com.ua/posts/deploy-ruby-on-rails/)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
